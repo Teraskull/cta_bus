@@ -13,7 +13,7 @@ maintainers = [
     { name = "Anton Grouchtchak", email = "anton.grouchtchak@gmail.com" },
 ]
 requires-python = ">=3.9"
-license = "MIT"
+license = "GPLv3"
 dependencies = [
     "httpx==0.24.1",
     "pendulum==2.1.2",
